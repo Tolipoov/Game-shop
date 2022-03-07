@@ -1,0 +1,1 @@
+export const calctotalPrice= items=>items.reduce((acc, game)=>acc += game.price, 0);

@@ -1,0 +1,21 @@
+/* Header Css  */
+.header{
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.wrapper{
+    display: flex;
+    flex-wrap: 1;
+}
+.header-link-store-title{
+    text-decoration: none;
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+}
+.header-cart-btn{
+    justify-content: flex-end;
+}
